@@ -54,14 +54,6 @@ cp frappe-custom-app-skill.md ~/frappe-bench/apps/your_app/docs/
 - **Extensions** - Customize ERPNext, Frappe CRM
 - **Internal Tools** - Dashboards, admin panels
 
-## 📊 Development Speed
-
-| App Size | Traditional | With Claude | Savings |
-|----------|-------------|-------------|---------|
-| Small (10 DocTypes) | 3-4 weeks | 1 week | 75% |
-| Medium (25 DocTypes) | 2-3 months | 3-4 weeks | 70% |
-| Large (50+ DocTypes) | 6-12 months | 2-3 months | 75% |
-
 ## 🎓 Example: Hospital Management System
 
 ```
